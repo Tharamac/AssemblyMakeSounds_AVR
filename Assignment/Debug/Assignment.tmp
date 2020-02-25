@@ -1,0 +1,36 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>D:\Programming\AVR\Assignment\Assignment\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Programming\AVR\Assignment\Assignment\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Programming\AVR\Assignment\Assignment\Debug\Assignment.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Assignment.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Assignment.map</FILE>
+  <FILE>Assignment.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <SETUP><FILE>D:\Programming\AVR\Assignment\Assignment\main.asm</FILE><LINE>10</LINE></SETUP>
+  <BTN_CHECK><FILE>D:\Programming\AVR\Assignment\Assignment\main.asm</FILE><LINE>17</LINE></BTN_CHECK>
+  <SILENT><FILE>D:\Programming\AVR\Assignment\Assignment\main.asm</FILE><LINE>29</LINE></SILENT>
+  <MAKE_WAVE><FILE>D:\Programming\AVR\Assignment\Assignment\main.asm</FILE><LINE>34</LINE></MAKE_WAVE>
+  <COUNTER_LOW><FILE>D:\Programming\AVR\Assignment\Assignment\main.asm</FILE><LINE>40</LINE></COUNTER_LOW>
+  <LOW_OUT><FILE>D:\Programming\AVR\Assignment\Assignment\main.asm</FILE><LINE>56</LINE></LOW_OUT>
+  <HIGH_OUT><FILE>D:\Programming\AVR\Assignment\Assignment\main.asm</FILE><LINE>60</LINE></HIGH_OUT>
+  <DELAY><FILE>D:\Programming\AVR\Assignment\Assignment\main.asm</FILE><LINE>46</LINE></DELAY>
+  <L1><FILE>D:\Programming\AVR\Assignment\Assignment\main.asm</FILE><LINE>49</LINE></L1>
+  <BUZZOUT><FILE>D:\Programming\AVR\Assignment\Assignment\main.asm</FILE><LINE>64</LINE></BUZZOUT>
+ </LABELS>
+</ASSEMBLER_INFO>
